@@ -1,1 +1,1 @@
-# Find_Study_Mate
+# Personalized Study Mate Finder
